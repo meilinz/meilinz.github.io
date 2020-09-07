@@ -1,0 +1,4 @@
+node_modules
+profile/public
+*.swp
+*.DS_Store
