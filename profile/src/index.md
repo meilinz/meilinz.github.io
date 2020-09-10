@@ -30,14 +30,9 @@ Data Scientist, Cognitive Scientist, Computational Linguist
 
 *M.Sc. in Applied Linguistics with Distinction, 2013*
 
-*School of Philosophy, Psychology and Language Sciences Highly Commended Dissertation Award, 2013*
-
 **Guangdong University of Foreign Studies**
 
 *B.A. in English Linguistics, 2012*
-
-*Outstanding Undergraduate Thesis Award, Guangdong University of Foreign Studies, 2012*
-
 
 ## Experience
 **Airbnb**,  Data Science Intern, June - August 2019, San Francisco, CA [Internship Story](https://medium.com/swlh/what-i-learned-from-airbnb-data-science-internship-c2936c3e94df)
