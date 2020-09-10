@@ -5,14 +5,22 @@ github: https://github.com/meilinz/profile-page
 
 ![](./assets/profile_0.jpg)
 
-## Meilin Zhan
+## Meilin Zhan 詹美琳
 
 Data Scientist, Cognitive Scientist, Computational Linguist
+
+[LinkedIn](https://www.linkedin.com/in/meilinzhan/) &nbsp;
+[GitHub](https://github.com/meilinz) &nbsp;
+[Medium](https://medium.com/@meilinzhan) &nbsp;
+[Google Scholar](https://scholar.google.com/citations?user=OX7MvuMAAAAJ&hl=en) &nbsp;
+[OSF](https://osf.io/kzdtj/)
 
 ## Education
 **Massachusetts Institute of Technology**
 
 *Ph.D. in Cognitive Science, 2020*
+
+*Marr Prize for Best Student Paper, Annual Conference of the Cognitive Science Society, 2018*
 
 **University of California, San Diego**
 
@@ -22,9 +30,21 @@ Data Scientist, Cognitive Scientist, Computational Linguist
 
 *M.Sc. in Applied Linguistics with Distinction, 2013*
 
+*School of Philosophy, Psychology and Language Sciences Highly Commended Dissertation Award, 2013*
+
 **Guangdong University of Foreign Studies**
 
 *B.A. in English Linguistics, 2012*
+
+*Outstanding Undergraduate Thesis Award, Guangdong University of Foreign Studies, 2012*
+
+
+## Experience
+**Airbnb**,  Data Science Intern, June - August 2019, San Francisco, CA [Internship Story](https://medium.com/swlh/what-i-learned-from-airbnb-data-science-internship-c2936c3e94df)
+
+
+**UpLift Inc.**, Data Science and Language Technology Intern, June - August 2018, Menlo Park, CA
+
 
 ## Papers
   **Meilin Zhan**, Roger Levy and Andrew Kehler. 2020. Pronoun Interpretation in Mandarin Chinese follows principles of Bayesian inference.  *PLOS ONE* 15(8):1–42. [DOI](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237012) [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0237012&type=printable)
@@ -37,13 +57,11 @@ Data Scientist, Cognitive Scientist, Computational Linguist
 
   **Meilin Zhan**, Roger Levy and Andrew Kehler. 2016. Bayesian Pronoun Interpretation in Mandarin Chinese. *Proceedings of the 38th Annual Meeting of the Cognitive Science Society*, pp. 2393–2398. [PDF](https://cogsci.mindmodeling.org/2016/papers/0414/paper0414.pdf)
 
-
 ## Member of
 - [MIT Computational Psycholinguistics Lab](http://cpl.mit.edu/)
 - [Cognitive Science Society](https://cognitivesciencesociety.org/)
+- [The Association for Computational Lingusitics](https://www.aclweb.org/portal/)
 
-## Contacts
-- [GitHub: meilinz](https://github.com/meilinz)
-- [LinkedIn: meilinzhan](https://www.linkedin.com/in/meilinzhan/)
-- [Medium: meilinzhan](https://medium.com/@meilinzhan)
-- [Google Scholar: Meilin Zhan](https://scholar.google.com/citations?user=OX7MvuMAAAAJ&hl=en)
+## Contact
+My email address is on the first page of my recent publications.
+<p>&nbsp;</p>
