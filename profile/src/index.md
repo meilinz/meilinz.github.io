@@ -15,7 +15,8 @@ Data Scientist, Cognitive Scientist, Computational Linguist
 [Google Scholar](https://scholar.google.com/citations?user=OX7MvuMAAAAJ&hl=en) &nbsp;
 [OSF](https://osf.io/kzdtj/)
 
-I'll be attending the virtual Grace Hopper Celebration in September 2020, where I'll be a judge for [ACM Student Research Competition posters](https://ghc.anitab.org/speakers/tracks/#poster)! Feel free to connect with me on LinkedIn or send me an email.
+**September 2020**: I'm excited to participate in the Grace Hopper Celebration 2020 as a judge for [ACM Student Research Competition](https://ghc.anitab.org/speakers/tracks/#poster)!
+
 
 ## Education
 **Massachusetts Institute of Technology**
