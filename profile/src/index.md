@@ -15,6 +15,8 @@ Data Scientist, Cognitive Scientist, Computational Linguist
 [Google Scholar](https://scholar.google.com/citations?user=OX7MvuMAAAAJ&hl=en) &nbsp;
 [OSF](https://osf.io/kzdtj/)
 
+I'll be attending the virtual Grace Hopper Celebration in September 2020, where I'll be a judge for [ACM Student Research Competition posters](https://ghc.anitab.org/speakers/tracks/#poster)! Feel free to connect with me on LinkedIn or send me an email.
+
 ## Education
 **Massachusetts Institute of Technology**
 
@@ -58,5 +60,5 @@ Data Scientist, Cognitive Scientist, Computational Linguist
 - [The Association for Computational Lingusitics](https://www.aclweb.org/portal/)
 
 ## Contact
-My email address is on the first page of my recent publications.
+My email address is meilinzhan AT gmail.com
 <p>&nbsp;</p>
