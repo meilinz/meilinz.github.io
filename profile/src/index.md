@@ -7,7 +7,7 @@ github: https://github.com/meilinz/profile-page
 
 ## Meilin Zhan 詹美琳
 
-Data Scientist, Cognitive Scientist, Computational Linguist
+Researcher at Massachusetts Institute of Technology
 
 [LinkedIn](https://www.linkedin.com/in/meilinzhan/) &nbsp;
 [GitHub](https://github.com/meilinz) &nbsp;
@@ -55,11 +55,17 @@ Data Scientist, Cognitive Scientist, Computational Linguist
 
   **Meilin Zhan**, Roger Levy and Andrew Kehler. 2016. Bayesian Pronoun Interpretation in Mandarin Chinese. *Proceedings of the 38th Annual Meeting of the Cognitive Science Society*, pp. 2393–2398. [PDF](https://cogsci.mindmodeling.org/2016/papers/0414/paper0414.pdf)
 
-## Member of
-- [MIT Computational Psycholinguistics Lab](http://cpl.mit.edu/)
-- [Cognitive Science Society](https://cognitivesciencesociety.org/)
-- [The Association for Computational Lingusitics](https://www.aclweb.org/portal/)
+## Other writings
+[Five Things I Wish I Started Doing from Day 1 of My PhD](https://medium.com/@meilinzhan/five-things-i-wish-i-started-doing-from-day-1-of-my-phd-f06a37b12903)
+
+[What I Learned from Airbnb Data Science Internship](https://medium.com/swlh/what-i-learned-from-airbnb-data-science-internship-c2936c3e94df)
+
+## Meilin's Kitchen
+I'm a foodie and passionate cook. I write recipes for fun. Check out my kitchen creations at [Xiachufang(下厨房)](https://www.xiachufang.com/cook/116863340/).
+
+Recipe for one of my favoriate dishes [Claypot Rice](https://www.xiachufang.com/recipe/105937842/)
 
 ## Contact
-My email address is meilinzhan AT gmail.com
+My email address is meilinz AT mit.edu
 <p>&nbsp;</p>
+
